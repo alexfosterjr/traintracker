@@ -1,7 +1,7 @@
 $(document).ready(function () {
     // Initialize Firebase
     var config = {
-        apiKey: "AIzaSyAxQa5mv8cTheCK6TvO0l580JaONhAd3Wk",
+        apiKey: "",
         authDomain: "traintracker-30b3f.firebaseapp.com",
         databaseURL: "https://traintracker-30b3f.firebaseio.com",
         projectId: "traintracker-30b3f",
